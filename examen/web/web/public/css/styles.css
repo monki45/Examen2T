@@ -1,0 +1,13 @@
+#map {
+    height: 600px;
+    width: 100%;
+}
+
+.list-group-item {
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.list-group-item:hover {
+    background-color: #f0f0f0;
+}
